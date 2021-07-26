@@ -3,7 +3,7 @@ import "./AddIssue.css";
 
 
 function AddIssue() {
-   
+
 
     return (
         <div className="add-issue">

@@ -4,7 +4,7 @@ import "./CurrentIssue.css";
 
 
 function CurrentIssue() {
-    
+   
 
     return (
         <div className="current-issues">
